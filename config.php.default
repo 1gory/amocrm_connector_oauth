@@ -1,0 +1,7 @@
+<?php
+
+const SUBDOMAIN = '';
+const REDIRECT_URI = '';
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
+const AUTHORIZATION_CODE = '';
